@@ -1,5 +1,10 @@
 # Meal
 
+## Live Site
+https://meal-mvp.herokuapp.com
+
+Also works on mobile!
+
 ## Contributors
 
 * Austin Kading: https://github.com/austin-kading
