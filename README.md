@@ -1,7 +1,7 @@
 # Meal
 
 ## Live Site
-https://meal-mvp.herokuapp.com
+http://meal-mvp.herokuapp.com/
 
 Also works on mobile!
 
